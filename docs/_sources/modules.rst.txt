@@ -1,0 +1,7 @@
+detour
+======
+
+.. toctree::
+   :maxdepth: 4
+
+   detour

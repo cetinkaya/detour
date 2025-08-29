@@ -1,0 +1,61 @@
+detour package
+==============
+
+Submodules
+----------
+
+detour.clustering module
+------------------------
+
+.. automodule:: detour.clustering
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+detour.detour module
+--------------------
+
+.. automodule:: detour.detour
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+detour.features module
+----------------------
+
+.. automodule:: detour.features
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+detour.road module
+------------------
+
+.. automodule:: detour.road
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+detour.roadgeometry module
+--------------------------
+
+.. automodule:: detour.roadgeometry
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+detour.treeutils module
+-----------------------
+
+.. automodule:: detour.treeutils
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+Module contents
+---------------
+
+.. automodule:: detour
+   :members:
+   :show-inheritance:
+   :undoc-members:
