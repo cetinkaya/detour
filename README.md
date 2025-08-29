@@ -61,7 +61,7 @@ DETOUR can be used as a standalone tool. Before we explain the tool we provide a
 
 ### Example Software That Use DETOUR Standalone
 
-In `detour_project/examples/standalone` folder, we provide two python files that use `detour` executable to select and prioritize codes. These files generate some plots of selected/prioritized roads.
+In `detour_project/examples/standalone` folder, we provide two python files that use `detour` executable to select and prioritize roads. These files generate some plots of selected/prioritized roads.
 
 #### Road selection
 
