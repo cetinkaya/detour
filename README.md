@@ -118,7 +118,7 @@ Executed tests specify a list of roads each with a test outcome. The shape of ro
 
 In the example json file above, `...` indicate more road_points/roads. For a complete example check the file `detour_project/examples/standalone/example_executed.json`.
 
-Notice that in the description above, the first road with has test outcome `FAIL` and the second road has test coutcome `PASS`.
+Notice that in the description above, the first road has test outcome `FAIL` and the second road has test coutcome `PASS`.
 
 
 It is allowable to have keys such as ids and information about test-execution configurations as long as the keys `meta_data/test_info/test_outcome` and `road_points/[x, y]` are provided.
