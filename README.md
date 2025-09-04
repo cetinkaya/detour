@@ -227,9 +227,9 @@ detour --functionality prioritization --prioritization-ratio 0.1 --executed-file
 
 ## Usage of DETOUR as a library
 
-When installed, DETOUR also provides the detour module that provides functions to be used in other python project. An example is provided in `examples/library` folder.
+When installed, DETOUR also provides the detour module that provides functions to be used in other python projects. An example is provided in `examples/library` folder.
 
-## API Documentation
+### API Documentation
 
 We provide an API documentation to help those who want to use DETOUR as a library. The documentation can be found in html format in the `docs` folder.
 
