@@ -57,7 +57,7 @@ Below we provide a detailed overview of standalone and library use cases.
 
 ## Usage of DETOUR as a standalone tool
 
-DETOUR can be used as a standalone tool. Before we explain the tool we provide a quick overview of some example software that uses DETOUR's standalone tool.
+DETOUR can be used as a standalone tool. Before we explain the tool we provide a quick overview of some example software that use DETOUR's standalone tool.
 
 ### Example Software That Use DETOUR Standalone
 
@@ -215,7 +215,7 @@ detour --functionality selection --selection-min-ratio 0.05 --selection-max-rati
 
 For test case prioritization, Test Case Prioritization-related argument (`--prioritization-ratio`) can be provided. It determines how many percent of the not-executed tests will be returned in the output. Of course the returned tests are in order of prioritization.
 
-Below we provide an example where the goal is to prioritize 10% of not executed tests. If there are 50 not executed tests, the output will have 10 tests inside each describing a road. Here is the full command that achieves this test case prioritization task, assuming that the environment described in Installation section above is activated.
+Below we provide an example where the goal is to prioritize 10% of not executed tests. If there are 50 not executed tests, the output will have 5 tests inside each describing a road. Here is the full command that achieves this test case prioritization task, assuming that the environment described in Installation section above is activated.
 
 ~~~sh
 cd examples/standalone
