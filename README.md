@@ -231,6 +231,6 @@ When installed, DETOUR also provides the detour module that provides functions t
 
 ### API Documentation
 
-We provide an API documentation to help those who want to use DETOUR as a library. The documentation can be found in html format in the `docs` folder.
+We provide an API documentation to help those who want to use DETOUR as a library. The documentation can be found in html format in the `docs` folder, or it can be accessed at [https://cetinkaya.github.io/detour/](https://cetinkaya.github.io/detour/).
 
 ![DETOUR documentation](./videos/detourdocumentation.gif)
