@@ -1,4 +1,4 @@
-# What is DETOUR?
+<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/457ca1ee-4228-409f-8778-4d244cc9892c" /># What is DETOUR?
 
 DETOUR is a regression testing tool for autonomous driving systems. From a given set of tests (defined as road structures) it selects/prioritizes those in which an automated driving system is more likely to drive off the lane.
 
@@ -224,6 +224,8 @@ detour --functionality prioritization --prioritization-ratio 0.1 --executed-file
 
 ![Test case prioritization](./videos/detourprioritization.gif)
 
+## Architectural and behavioral description of DETOUR
+For a more detailed description of the implementation of DETOUR, please refer to these [UML diagrams](https://github.com/cetinkaya/detour/blob/main/uml/uml.md).
 
 ## Usage of DETOUR as a library
 
