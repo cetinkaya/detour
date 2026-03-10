@@ -1,4 +1,4 @@
-<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/457ca1ee-4228-409f-8778-4d244cc9892c" /># What is DETOUR?
+# What is DETOUR?
 
 DETOUR is a regression testing tool for autonomous driving systems. From a given set of tests (defined as road structures) it selects/prioritizes those in which an automated driving system is more likely to drive off the lane.
 
