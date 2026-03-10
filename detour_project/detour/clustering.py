@@ -18,7 +18,7 @@ class HierarchicalClusterer:
         pairwise distances between nodes in vector form."""
         data = np.vstack(features_list)
         dist = pdist(data)
-        Z = linkage(dist, method='ward')
+        Z = linkage(dist, method=self.distance_calculation_method)
         return to_tree(Z), dist
 
 
@@ -29,7 +29,7 @@ class RoadClusterer(HierarchicalClusterer):
     def __init__(self, road_feature_extractor):
         """road_feature_extractor is a FeatureExtractor object
         that implements extract_features method."""
-        super().__init__()
+        super().__init__(distance_calculation_method='ward')
         self.road_feature_extractor = road_feature_extractor
 
     def cluster(self, roads):
